@@ -14,6 +14,9 @@ We built this project in TypeScript. The following tools/services were used:
 
 <img width="1792" alt="Screenshot 2023-04-07 at 18 33 20" src="https://user-images.githubusercontent.com/116962905/230644679-61ede026-fc4d-4d8f-81de-e4face6aa767.png">
 
+https://github.com/luisw90/projectProject/assets/116962905/d44724f5-214b-473e-a3f1-1cf097d1b8c2
+
+
 ## Who we are
 
 We are four people with completely different nationalities, career backgrounds, and skillsets who are all motivated by the same thing: creating practical and accessible software.
