@@ -2,6 +2,8 @@
 
 [project Project] is a collaborative and interactive project management application. It was ideated in two hours, planned in a day, then developed within the span of 11 days by four full-stack Javascript students as part of the winter 2023 class from the School of Applied Learning and Technology, aka Salt.
 
+Find the project deployed at https://project-project-nine.vercel.app/
+
 ## Tech Stack
 We built this project in TypeScript. The following tools/services were used:
 - NextJS v.13 (and NextAPI)
@@ -36,11 +38,6 @@ Stephen Moore
 Brittany Villegas
 - [github](https://github.com/bretagne-marie)
 - [LinkedIn](https://www.linkedin.com/in/bmvillegas/)
-
-
-## Deployment
-
-Find the project deployed at https://project-project-nine.vercel.app/
 
 ## Improvements
 
